@@ -1,0 +1,9 @@
+Compiling n_squared_body.fut...
+Results for n_squared_body.fut:
+dataset data/1000-bodies.in:         82.90μs (avg. of 10 runs; RSD: 0.03)
+dataset data/10000-bodies.in:       648.60μs (avg. of 10 runs; RSD: 0.00)
+dataset data/100000-bodies.in:    26185.20μs (avg. of 10 runs; RSD: 0.13)
+dataset data/200000-bodies.in:    90498.50μs (avg. of 10 runs; RSD: 0.06)
+dataset data/1000000-bodies.in: 2164685.70μs (avg. of 10 runs; RSD: 0.00)
+dataset data/2000000-bodies.in: 8735776.80μs (avg. of 10 runs; RSD: 0.00)
+dataset data/4000000-bodies.in: 34925083.00μs (avg. of 10 runs; RSD: 0.00)

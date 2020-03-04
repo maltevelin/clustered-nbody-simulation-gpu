@@ -1,0 +1,9 @@
+Compiling nbody.fut...
+Results for nbody.fut:
+dataset data/1000-bodies.in:       3870.10μs (avg. of 10 runs; RSD: 0.05)
+dataset data/10000-bodies.in:      4236.70μs (avg. of 10 runs; RSD: 0.06)
+dataset data/100000-bodies.in:     6553.20μs (avg. of 10 runs; RSD: 0.03)
+dataset data/200000-bodies.in:     9898.50μs (avg. of 10 runs; RSD: 0.02)
+dataset data/1000000-bodies.in:   36076.70μs (avg. of 10 runs; RSD: 0.09)
+dataset data/2000000-bodies.in:   69148.10μs (avg. of 10 runs; RSD: 0.03)
+dataset data/4000000-bodies.in:  141538.20μs (avg. of 10 runs; RSD: 0.00)
